@@ -1,0 +1,7 @@
+[Image — Shot 1 still — Arcade Boot Title Screen, 16:9, NO TEXT]
+
+Pixel art / 16-bit retro video-game title-screen aesthetic. Pure white #FFFFFF background — cream-paper grain optional, but the dominant tone is bright white. Composition for 16:9 widescreen with generous empty space in the upper-center and lower-center where typography will be composited later (so leave those zones clean and uncluttered).
+
+Around the empty centre, scatter chunky, large-pixel game-poster art (every pixel is a clearly visible square block, ~12-16 px on screen): a chunky pixel-art ink-splatter / paint-burst on the left in jet black with a few electric chartreuse #D1FE17 highlight pixels, an 8-bit-style "controller" or "joystick" silhouette in the lower-right corner, a couple of pixel-art star/sparkle clusters in jet black with chartreuse twinkles, a pixel-art arrow icon in the bottom-left, and a tiny pixel-art trophy or megaphone icon stamped near the upper-right. A subtle horizontal CRT-scanline pattern (very faint) overlays the whole frame.
+
+Strict constraints — DO NOT include any text, letters, numbers, words, glyphs, captions, or typography of any kind anywhere in the image. No watermarks. No logos. No symbols that could be confused for letters. Only iconography, pixel-art ornaments, and a clean empty central area. Aesthetic: 1989 NES / 1991 SNES game-poster art, ultra-bold contrast, jet black + single electric chartreuse #D1FE17 accent on pure white, deliberate large-pixel chunkiness, no anti-aliasing, no smooth gradients. Premium pixel-art ad poster.

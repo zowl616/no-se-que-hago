@@ -1,0 +1,12 @@
+[Image — Shot 2 still — Arcade High-Score Scoreboard, 16:9, NO TEXT]
+
+Pixel art / 16-bit retro video-game high-score scoreboard aesthetic. Pure white #FFFFFF background. Composition for 16:9 widescreen with three clearly separated horizontal "scoreboard rows" stacked vertically in the center of the frame, each row a wide empty rectangular zone where typography will be composited later — leave those rectangles entirely clean and empty.
+
+To the left of each scoreboard row, render a different chunky pixel-art icon (every pixel a clearly visible square block, ~12-16 px on screen):
+- Top row: a pixel-art group of 3 stick-figure "creator" silhouettes in jet black, slightly overlapping
+- Middle row: a pixel-art megaphone / loudspeaker icon in jet black with a small chartreuse #D1FE17 sound-wave puff
+- Bottom row: a pixel-art trophy with a small chartreuse #D1FE17 highlight, plus a tiny pixel-art checkmark next to it
+
+To the right of each row, a chunky pixel-art "progress bar" or "level indicator" filled mostly black with a small chartreuse #D1FE17 segment. A few pixel-art star/sparkle clusters scattered in the corners. A subtle horizontal CRT-scanline pattern (very faint) overlays the whole frame.
+
+Strict constraints — DO NOT include any text, letters, numbers, words, glyphs, captions, or typography of any kind anywhere in the image. No watermarks. No logos. Only iconography, pixel-art ornaments, and clean empty rectangular zones for each row. Aesthetic: 1989 NES / 1991 SNES scoreboard, ultra-bold contrast, jet black + single electric chartreuse #D1FE17 accent on pure white, deliberate large-pixel chunkiness, no anti-aliasing.

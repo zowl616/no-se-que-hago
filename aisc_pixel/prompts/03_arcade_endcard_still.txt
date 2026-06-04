@@ -1,0 +1,9 @@
+[Image — Shot 3 still — Arcade End Card / "GAME ON", 16:9, NO TEXT]
+
+Pixel art / 16-bit retro video-game end-screen aesthetic. Pure white #FFFFFF background. Composition for 16:9 widescreen with a wide clean empty zone in the right half of the frame (where typography will be composited later — leave it entirely clean and empty).
+
+In the left half, render a striking chunky pixel-art scene (every pixel a clearly visible square block, ~12-16 px on screen): a thick pixel-art arrow drawn in jet black, swooping diagonally from lower-left to upper-center, ending in a chunky pixel-art checkmark. A faint chartreuse #D1FE17 highlight runs in parallel just inside the arrow.
+
+In the lower-left corner, a pixel-art game-controller silhouette and a small "1UP"-style heart/star cluster in chartreuse #D1FE17. In the upper-right corner of the frame (above the empty typography zone), a pixel-art crown or laurel-wreath cluster in jet black with chartreuse #D1FE17 twinkles. A subtle horizontal CRT-scanline pattern (very faint) overlays the whole frame.
+
+Strict constraints — DO NOT include any text, letters, numbers, words, glyphs, captions, or typography of any kind anywhere in the image. No watermarks. No logos. No symbols that could be confused for letters. Only iconography, pixel-art ornaments, and a clean empty zone on the right. Aesthetic: 1989 NES / 1991 SNES end-screen, ultra-bold contrast, jet black + single electric chartreuse #D1FE17 accent on pure white, deliberate large-pixel chunkiness, no anti-aliasing.
