@@ -1,0 +1,13 @@
+[Image — Shot 1 still — Wordmark Ignition (NO TEXT), 16:9]
+
+Editorial motion-design poster, pure #FFFFFF white paper background with very subtle grain. Composition for 16:9 widescreen, with a wide CLEAN EMPTY ZONE in the center of the frame (roughly the central 50% width × 50% height area) where typography will be composited later — leave that zone entirely empty.
+
+Around the empty centre, populate the corners and edges with editorial motion-design ornaments only:
+- A frozen mid-splatter black ink blot to the left, organic and editorial, with droplet trails frying off in motion-blur arcs.
+- Tiny chartreuse #D1FE17 accent dots scattered as if confetti caught in motion blur (corners only, not the centre).
+- A few abstract jet-black ink-stamp shapes (rectangles, badges, blobs) at angles in the corners — like rubber-stamps, but with NO legible letters, numbers, or glyphs inside them. Treat them as pure shapes / textures.
+- Subtle motion-blur trails curving across the corners, paper grain throughout, occasional speckle.
+
+Strict constraint — DO NOT include any text, letters, numbers, words, glyphs, captions, partner-brand wordmarks, logos, watermarks, or typography of any kind anywhere in the image. Not even partial letterforms or anything that could be mistaken for letters. If you would otherwise stamp a brand name, render it as a featureless solid rectangle or organic ink-blob instead.
+
+Style: Swiss editorial graphic design, kinetic motion-design poster, paper-grain texture, deep blacks, single chartreuse #D1FE17 accent, ultra-clean white negative space, motion-blur trails baked into the composition. Hyperkinetic, premium, ad-agency reel quality. No people, no photos.

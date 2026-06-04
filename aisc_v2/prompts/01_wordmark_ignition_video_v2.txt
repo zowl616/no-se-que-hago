@@ -1,0 +1,13 @@
+[Video — Shot 1 — 5s, 16:9 — Wordmark Ignition with integrated typography]
+
+Hyperkinetic editorial motion design on a stark pure-white paper background. The supplied frame already contains the AISC wordmark, tagline, handle, and the seven partner-brand stamps perfectly placed and spelled — DO NOT rewrite, redraw, alter, or re-letter any of the typography. Preserve every glyph exactly as supplied.
+
+Animate everything together as one cohesive editorial poster:
+- The "AISC" wordmark does a subtle rubberband kerning snap (slight compress-then-overshoot) at the start, then settles.
+- The "MARKETING FOR AMBITIOUS AI FOUNDERS" tagline and the "@AISCWORK · AISCWORK.COM" handle line each whip-snap into place underneath with tiny kerning bounces, then settle.
+- The seven partner-brand box stamps in the corners rapid-fire stamp-in with stop-motion 12fps cascade, tilting slightly, then a couple of them disperse outward off-frame with motion-blur trails — but the typography inside each stamp must stay readable and unaltered.
+- The black ink splatter on the left ripples and explodes outward toward camera with droplet trails arcing across the canvas.
+- Tiny chartreuse #D1FE17 accent dots flicker like sparks in the corners.
+- Subtle 1.05x camera dolly-in. Paper grain throughout. Faint motion-blur trails around the wordmark edges to feel hand-painted and integrated with the paper.
+
+Style: Swiss editorial motion-design poster, hyperkinetic, premium ad-agency reel quality, jet black + single chartreuse #D1FE17 accent on pure white. The typography must remain perfectly legible and unchanged in spelling, position, and letterforms throughout the clip.
