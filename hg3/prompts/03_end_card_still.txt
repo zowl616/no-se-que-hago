@@ -1,0 +1,13 @@
+[Image — Shot 3 still — Restaurant End Card Backdrop, 16:9, NO TEXT]
+
+Editorial chef-driven restaurant-brand end-card backdrop, 16:9. Deep-forest-green #1F4D3A paper-textured background covering most of the frame with a very subtle warm spotlight rising from the lower-right corner (faint warm gold haze). A few drifting paper-grain particles, a faint warm bokeh glow on the right edge as if the dining-room candlelight is just out of frame.
+
+In the LOWER-LEFT quarter, a thick hand-drawn jet-black sharpie-style ARROW swooping diagonally upward from the bottom-left corner toward the upper-centre, ending in a hand-drawn checkmark stroke; a faint warm-gold (#E8B662) parallel highlight runs just inside the arrow.
+
+In the lower-right corner, a small simple hand-drawn icon trio (silhouettes only, no text): a tiny bowl of greens, a tiny coffee cup, a tiny fork. In the upper-right corner, a small hand-drawn sparkle / sun-burst in jet-black with a warm-gold twinkle.
+
+The entire RIGHT-HALF and CENTRE of the frame is a wide CLEAN EMPTY ZONE where typography will be composited later — leave that area entirely empty (no marks, no shapes, no shading inside).
+
+Strict constraint: DO NOT render any text, letters, numbers, words, glyphs, captions, watermarks, or typography of any kind anywhere in the image. Treat any place where text might go as empty deep-forest-green paper.
+
+Style: premium chef-driven restaurant brand end card, hand-painted ink mood, warm intimate hospitality vibe, deep-forest-green + jet black + warm-gold accent, magazine-quality.
