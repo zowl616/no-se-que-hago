@@ -1,0 +1,17 @@
+[Image — Scene 3 still — Dining Room Vignette, 16:9, NO TEXT]
+
+Ultra-photorealistic cinematic still, shot on Sony FX3 with a Cooke S4 50mm prime at f/2.0, gentle gimbal-track feel. The frame is a horizontal mid-shot through the warm candlelit dining room of a Honest Greens-style premium chef-driven restaurant in the early evening.
+
+In the foreground left, two seated guests at a wooden table are mid-conversation, leaning slightly toward each other with subtle warm smiles, one of them lifting a wine glass toward the other in a soft, intimate gesture — captured naturally, not posed. They are out of sharp focus (shallow depth of field). On a candle on their table, a single steady flame.
+
+In the mid-ground centre, a server in a clean cream apron is placing a dish on another wooden table with intention, photographed three-quarters from behind so their face is in soft profile. Their hands are believable and anatomically correct.
+
+In the background, exposed-brick or warm-wood walls glow under low warm pendant lights, with a few large potted plants in soft silhouette and a tile-and-wood bar counter visible far back.
+
+The whole scene is bathed in warm amber candlelight + low pendant tungsten, with slight atmospheric haze for depth. Long warm shadows, cinematic single-source feel, small specular highlights on cutlery and glassware. A few warm bokeh balls in the deep background.
+
+Reserve a generous CLEAN EMPTY ZONE along the upper edge of the frame and a quieter area in the lower-right for typography compositing later — keep those zones uncluttered.
+
+Strict constraint: DO NOT render any text, letters, numbers, words, glyphs, captions, watermarks, brand wordmarks, signage, or typography of any kind anywhere in the image. Treat any surface where text might go as featureless solid colour.
+
+Style: ultra-photorealistic cinematic dining-room vignette, Wong Kar-wai meets Bon Appétit, Kodak Vision3 500T emulation, warm shadows, lifted highlights, slightly desaturated mid-tones, intimate hospitality mood. Believable people: anatomically correct hands, natural skin tones, no warped faces, no duplicated objects.

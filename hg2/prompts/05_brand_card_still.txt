@@ -1,0 +1,9 @@
+[Image — Scene 5 still — Brand Card Backdrop, 16:9, NO TEXT]
+
+Ultra-photorealistic cinematic still, deep-navy near-black backdrop with very subtle warm amber atmosphere (a soft warm light source far off-frame to the right giving a faint vignette and a hint of golden glow on the right edge), faint atmospheric haze. Background colour: a deep navy-charcoal hue around RGB (12, 18, 22). A few extremely subtle warm bokeh particles drift in the lower-third — like the last out-of-focus impression of candlelight from the dining room.
+
+The frame is a CLEAN EMPTY BACKDROP — no objects, no props, no signage, no logos. Treat the entire image as a deep moody backdrop where typography will be composited later.
+
+Strict constraint: DO NOT render any text, letters, numbers, words, glyphs, captions, watermarks, brand wordmarks, logos, or typography of any kind anywhere in the image.
+
+Style: ultra-photorealistic cinematic still, Kodak Vision3 500T emulation, deep moody navy-black with warm amber edge, slightly desaturated mid-tones, refined editorial mood, premium hospitality teaser closing card aesthetic.
