@@ -1,0 +1,11 @@
+[Video — Shot 1 — 5s, 16:9 — Wordmark Ignition (NO TEXT)]
+
+Hyperkinetic editorial motion design on a stark pure-white paper background. The empty central typography zone stays empty and clean throughout — no text, no letters, no numbers, no glyphs of any kind anywhere in the video.
+
+Animate the surrounding ornaments only:
+- The black ink splatter on the left ripples and explodes outward toward camera with droplet trails arcing across the canvas in motion-blur.
+- The abstract jet-black ink-stamp shapes (rectangles / badges / blobs) at the corners rapid-fire stamp in with stop-motion 12fps cascade, tilting at slight angles, then disperse centrifugally outward off-frame with motion blur. They are pure shapes — no letters appear inside them.
+- Tiny chartreuse #D1FE17 accent dots flicker like sparks in the corners.
+- Camera does a subtle 1.05x dolly-in. Paper grain, occasional speckle.
+
+Style: Swiss editorial graphic design, hyperkinetic motion-design poster, pure white background throughout, deep blacks, single chartreuse #D1FE17 accent, premium ad-agency reel quality, no people, no photos. End on the corners stable and the empty centre still clean.
