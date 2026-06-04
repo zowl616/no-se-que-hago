@@ -1,0 +1,11 @@
+[Video — Shot 2 — 5s, 16:9 — Pixel-Art Scoreboard]
+
+Hyperkinetic 16-bit retro video-game arcade-scoreboard motion. Pure white background throughout. Three horizontal scoreboard rows are stacked in the center of the frame; the rectangular typography zones in the middle of each row stay completely empty and clean throughout — no text, no letters, no numbers, no glyphs whatsoever anywhere in the video.
+
+Animate the surrounding pixel-art ornaments only:
+- The chunky pixel-art icons on the left of each row pop in with rubberband stamp-in, then jitter slightly: the 3 stick-figure creators bob up-and-down, the megaphone shakes and emits a chartreuse #D1FE17 sound-wave puff, the trophy gleams with a chartreuse pixel sparkle and the checkmark stamps in.
+- The chunky pixel-art "progress bar" / "level indicator" on the right of each row fills up from left to right in chunky pixel steps, the chartreuse #D1FE17 segment growing as it goes.
+- A few pixel-art star/sparkle clusters twinkle in/out at 12fps stop-motion timing in the corners.
+- A subtle horizontal CRT-scanline pattern drifts gently downward across the whole frame.
+
+Camera holds steady. Aesthetic: NES/SNES high-score screen, ultra-bold contrast, jet black + single chartreuse #D1FE17 accent on pure white, deliberate large-pixel chunkiness, no anti-aliasing on the ornaments. Crazy pixel-art motion, hyperkinetic. End on a fully filled scoreboard.

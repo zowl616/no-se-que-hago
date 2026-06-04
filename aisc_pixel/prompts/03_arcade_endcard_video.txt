@@ -1,0 +1,12 @@
+[Video — Shot 3 — 5s, 16:9 — Pixel-Art End Card]
+
+Hyperkinetic 16-bit retro video-game end-screen motion. Pure white background throughout. The empty typography zone on the right half of the frame stays completely empty and clean throughout — no text, no letters, no numbers, no glyphs whatsoever anywhere in the video.
+
+Animate the surrounding pixel-art elements only:
+- The thick pixel-art arrow on the left draws itself in chunky pixel-by-pixel reveal from lower-left to upper-center, ending in the chunky pixel-art checkmark stamping in with a rubberband overshoot. A faint chartreuse #D1FE17 highlight runs in parallel just inside the arrow as it draws.
+- The pixel-art game-controller silhouette in the lower-left bobs slightly and the "1UP" heart/star cluster pulses in chartreuse #D1FE17.
+- The pixel-art crown / laurel cluster in the upper-right twinkles with chartreuse pixels.
+- A few pixel-art star/sparkle clusters twinkle in/out at 12fps stop-motion timing.
+- A subtle horizontal CRT-scanline pattern drifts gently downward across the whole frame.
+
+Camera holds steady. Aesthetic: NES/SNES "Game Cleared" / "Continue?" screen, ultra-bold contrast, jet black + single chartreuse #D1FE17 accent on pure white, deliberate large-pixel chunkiness, no anti-aliasing on the ornaments. Crazy pixel-art motion, hyperkinetic, premium ad-agency reel quality. End on a fully drawn, beautifully composed scene.
