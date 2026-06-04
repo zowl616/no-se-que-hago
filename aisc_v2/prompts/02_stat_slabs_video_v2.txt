@@ -1,0 +1,13 @@
+[Video — Shot 2 — 5s, 16:9 — Stat Slabs with integrated typography]
+
+Hyperkinetic editorial motion design on a stark pure-white paper background. The supplied frame already contains three stacked stat headlines — "200+ CREATORS" / "10M+ REACH" / "126 CAMPAIGNS" — each with its chartreuse #D1FE17 underline and small label sub-line. DO NOT rewrite, redraw, alter, or re-letter any of the typography. Preserve every digit, plus-sign, and letterform exactly as supplied.
+
+Animate everything together as one cohesive editorial poster:
+- The three stat headlines slam-conveyor in vertically one after another from the bottom of the frame, each with a heavy bass-thud overshoot bounce that wobbles the whole row, then settles. Kerning stays tight, letterforms stay unchanged.
+- Each chartreuse #D1FE17 underline whip-extends across as the row settles.
+- The label sub-line beneath each headline fades up after its row lands.
+- Jet-black ink speckles and motion-blur dust drift in the four corners.
+- The chartreuse corner mark in the upper-right pulses once.
+- Subtle parallax tilt on the z-axis, faint motion blur on each ascending edge of the headlines so they feel hand-painted and integrated with the paper.
+
+Style: Swiss editorial motion-design poster, hyperkinetic, premium ad-agency reel quality, jet black + single chartreuse #D1FE17 accent on pure white. The typography must remain perfectly legible and unchanged in spelling, position, and letterforms throughout the clip.

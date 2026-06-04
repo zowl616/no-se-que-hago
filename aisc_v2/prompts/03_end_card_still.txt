@@ -1,0 +1,16 @@
+[Image — Shot 3 still — Drop Engine End Card (NO TEXT), 16:9]
+
+Editorial motion-design poster, pure #FFFFFF white paper background with very subtle grain. Composition for 16:9 widescreen.
+
+The RIGHT HALF of the frame must be a wide CLEAN EMPTY ZONE where typography will be composited later — leave the right 55% of the frame entirely empty (no marks, no shapes, no shading inside).
+
+In the LEFT HALF only, render a striking editorial graphic:
+- A thick jet-black hand-drawn sharpie-style arrow swooping diagonally from lower-left to upper-center, with organic felt-tip weight variation and a tiny chartreuse #D1FE17 highlight running parallel just inside the arrow.
+- Ending in a hand-drawn checkmark stroke.
+- A few jet-black ink speckles and motion-blur dust scattered in the lower-left and upper-left corners.
+- A subtle little hand-drawn star or asterisk near the bottom-left corner (purely a shape, not a letter).
+- Subtle paper grain across the whole canvas.
+
+Strict constraint — DO NOT include any text, letters, numbers, words, glyphs, captions, partner-brand wordmarks, logos, watermarks, or typography of any kind anywhere in the image. Not even partial letterforms.
+
+Style: Swiss editorial graphic design, kinetic motion-design poster, paper-grain texture, deep blacks, single chartreuse #D1FE17 accent, ultra-clean white negative space, hand-painted ink feel. Premium, ad-agency reel quality. No people, no photos.
