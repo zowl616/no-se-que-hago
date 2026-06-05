@@ -122,8 +122,8 @@ SEGMENTS=(
 
 ffmpeg -y -hide_banner -loglevel error \
   -f concat -safe 0 -i /tmp/oliva2_concat.txt -an \
+  -vf "fps=30,scale=1920:1080:flags=lanczos,format=yuv420p,tpad=stop_mode=clone:stop_duration=1" \
   -t 25.000 \
-  -vf "fps=30,scale=1920:1080:flags=lanczos,format=yuv420p" \
   -c:v libx264 -preset slow -crf 17 -profile:v high -level 4.2 \
   -movflags +faststart -pix_fmt yuv420p \
   final/oliva_sal_tapas_25s_1080p_silent.mp4
@@ -177,6 +177,8 @@ AUD_SEGMENTS=(
 
 ffmpeg -y -hide_banner -loglevel error \
   -f concat -safe 0 -i /tmp/oliva2_concat_aud.txt \
+  -vf "tpad=stop_mode=clone:stop_duration=1" \
+  -af "apad=pad_dur=1" \
   -t 25.000 \
   -c:v libx264 -preset slow -crf 18 -profile:v high -level 4.2 \
   -c:a aac -b:a 192k -ar 48000 \
